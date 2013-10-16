@@ -6,6 +6,8 @@
 
 using namespace std;
 
+//Her fyrir nedan eru comment og skilgreiningar a follum. Flott.
+
 //Þetta fall á að birta stöðu allra eldspýtnahrúgna (hrúgur í fleirtölu eignarfalli)
 void birta( int* hruga );
 
